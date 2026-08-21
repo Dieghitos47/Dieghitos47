@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi everyone!
+My name is Dieghitos47, 
+I'm a very young programmer, 
+I've been in this world for a few months,
+and my motto is that "consistency beats talent"
 
-<!--
-**Dieghitos47/Dieghitos47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently live in Italy, in the northern areas,
+but for formality I will write all my projects in English
+I have good skills in Python and in creating Telegram bots
 
-Here are some ideas to get you started:
+In the future, I want to become a full stack developer, 
+learning, in addition to Python,
+SQL, TypeScript, Node.js, CSS, and HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The biggest ambition I have is to become a programmer
